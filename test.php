@@ -1,10 +1,6 @@
 <html>
     <body>
         1
-<<<<<<< HEAD
-        4
-=======
-        3
->>>>>>> origin/php
+        5
     </body>
 </html>
